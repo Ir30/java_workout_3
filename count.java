@@ -13,7 +13,7 @@ public class count
 
         try
         {
-            reader = new BufferedReader(new FileReader("C:\\Users\\rahul\\IdeaProjects\\Hello\\src\\linesoftext.txt"));
+            reader = new BufferedReader(new FileReader("C:\\Users\\irshad\\IdeaProjects\\Hello\\src\\linesoftext.txt"));
             String currentLine = reader.readLine();
             while (currentLine != null)
             {
